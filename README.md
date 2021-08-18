@@ -12,6 +12,8 @@ The following files are to be found here:
 * 3)final_gra_data_cleaning_mentors_eu.ipynb
 * 4)gra_Raimundo_Burchardt_data_cleaning_final_first_iteration.ipynb
 * 5)gra_Raimundo_Burchardt_data_cleaning_exploration_final_dataset.ipynb
+* 6) first_it python script + data
+* 7) second_it python script + data
 
 
 
