@@ -7,11 +7,11 @@ Recommend to run code in Spyder or Visual Studio, as Jupyter Notebook does not r
 
 The following files are to be found here:
 
-1)final_gra_data_cleaning_mentee_ch.ipynb
-2)final_gra_data_cleaning_mentors_ch.ipynb
-3)final_gra_data_cleaning_mentors_eu.ipynb
-4)gra_Raimundo_Burchardt_data_cleaning_final_first_iteration.ipynb
-5)gra_Raimundo_Burchardt_data_cleaning_exploration_final_dataset.ipynb
+* 1)final_gra_data_cleaning_mentee_ch.ipynb
+* 2)final_gra_data_cleaning_mentors_ch.ipynb
+* 3)final_gra_data_cleaning_mentors_eu.ipynb
+* 4)gra_Raimundo_Burchardt_data_cleaning_final_first_iteration.ipynb
+* 5)gra_Raimundo_Burchardt_data_cleaning_exploration_final_dataset.ipynb
 
 
 
